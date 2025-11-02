@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.log
+
+# Ghidra
+.work/
+ghidra_projects/
+*.rep
+*.gpr
+
+# macOS
+.DS_Store
